@@ -1,0 +1,15 @@
+C:\Users\Zander\source\repos\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\Zander\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\Zander\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\MainWindow.g.cs
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\App.g.cs
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST_MarkupCompile.cache
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST_MarkupCompile.lref
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\MainWindow.baml
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.g.resources
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\Zander\source\repos\TEST\TEST\obj\Debug\TEST.pdb
